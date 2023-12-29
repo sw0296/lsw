@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 cannon
+=======
+canon
+sonar
+raidar
+>>>>>>> 6a7010bedb97e453a1b66997064b501fe98b285f
